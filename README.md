@@ -20,3 +20,4 @@ This application exposes two endpoints, both of which will be necessary to autom
   These two parameters are both UNIX timestamps in milliseconds.
   If the `from` and `to` parameters do not cover a window, no data will be returned
   - Additionally, if more than one parse window is covered by the parameters, multiple sample sets will be returned
+  
